@@ -1,0 +1,5 @@
+NAME=create-website
+VERSION=0.1.0
+DESCRIPTION=create a website boilerplate
+REPOSITORY=git@github.com:fippli/create-website.git
+MAIN=main

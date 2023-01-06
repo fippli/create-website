@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+script_path="$(dirname "${BASH_SOURCE[0]}")"
+
+cp -r "${script_path}/template" "${1}"
